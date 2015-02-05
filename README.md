@@ -1,5 +1,5 @@
 # hello-world
 
-is my github works
+is my first github works
 
 thanks
